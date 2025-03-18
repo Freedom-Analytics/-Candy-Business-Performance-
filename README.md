@@ -18,6 +18,27 @@ This repository contains an Excel-based sales dashboard that provides insights i
 ## 📷 Dashboard Preview
 Dashboard 1 - Candy Business Performance Overview  (https://github.com/Freedom-Analytics/-Candy-Business-Performance-/blob/main/candy%20project%20Image%201%20.jpg)
 
+- ** Dashboard 2 - Detailed Sales Insights 
+https://github.com/Freedom-Analytics/-Candy-Business-Performance-/blob/main/candy%20project%20Image%202%20.jpg
+📂 Dataset
+
+- ** You can access the dataset used in this project here.
+
+🚀 How to Use
+Download the Excel file from the repository.
+Open it in Microsoft Excel.
+Explore the interactive dashboards and analyze sales trends.
+📌 About the Project
+This project provides valuable insights into candy sales, helping businesses optimize product distribution, understand revenue patterns, and improve decision-making.
+
+🤝 Contributing
+Feel free to fork this repository, suggest improvements, and submit a pull request!
+
+📩 Contact
+📧 Email: onyeutefreedom@gmail.com
+📱 WhatsApp: +2349037064724
+⭐ If you find this useful, don’t forget to give it a star! 🌟
+
 
 
 
