@@ -25,20 +25,21 @@ https://github.com/Freedom-Analytics/-Candy-Business-Performance-/blob/main/cand
 
 !You can access the dataset used in this project here. (https://onedrive.live.com/personal/07fb2997ad559975/_layouts/15/Doc.aspx?resid=7FB2997AD559975!s409d7a502a00444982870923da25b8df&cid=7fb2997ad559975&migratedtospo=true&app=Excel)
 
-🚀 How to Use
-Download the Excel file from the repository.
-Open it in Microsoft Excel.
-Explore the interactive dashboards and analyze sales trends.
-📌 About the Project
+## 🚀 How to Use
+1. Download the Excel file from the repository.
+2. Open it in Microsoft Excel.
+3. Explore the interactive dashboards and analyze sales trends.
+ 
+## 📌 About the Project
 This project provides valuable insights into candy sales, helping businesses optimize product distribution, understand revenue patterns, and improve decision-making.
 
-🤝 Contributing
+## 🤝 Contributing
 Feel free to fork this repository, suggest improvements, and submit a pull request!
 
-📩 Contact
-📧 Email: onyeutefreedom@gmail.com
-📱 WhatsApp: +2349037064724
-⭐ If you find this useful, don’t forget to give it a star! 🌟
+## 📩 Contact
+- ** 📧 Email: onyeutefreedom@gmail.com
+- ** 📱 WhatsApp: +2349037064724
+- ** ⭐ If you find this useful, don’t forget to give it a star! 🌟
 
 
 
