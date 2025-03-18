@@ -20,9 +20,10 @@ Dashboard 1 - Candy Business Performance Overview  (https://github.com/Freedom-A
 
 - ** Dashboard 2 - Detailed Sales Insights 
 https://github.com/Freedom-Analytics/-Candy-Business-Performance-/blob/main/candy%20project%20Image%202%20.jpg
-📂 Dataset
 
-- ** You can access the dataset used in this project here.
+## 📂 Dataset
+
+!You can access the dataset used in this project here. (https://onedrive.live.com/personal/07fb2997ad559975/_layouts/15/Doc.aspx?resid=7FB2997AD559975!s409d7a502a00444982870923da25b8df&cid=7fb2997ad559975&migratedtospo=true&app=Excel)
 
 🚀 How to Use
 Download the Excel file from the repository.
