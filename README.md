@@ -15,31 +15,7 @@ Microsoft Excel 📊
 Pivot Tables & Charts 📈
 Data Cleaning & Analysis 🧹
 📷 Dashboard Preview
-Dashboard 1 - Candy Business Performance Overview
-
-
-Dashboard 2 - Detailed Sales Insights
-
-
-📂 Dataset
-You can access the dataset used in this project here.
-
-🚀 How to Use
-Download the Excel file from the repository.
-Open it in Microsoft Excel.
-Explore the interactive dashboards and analyze sales trends.
-📌 About the Project
-This project provides valuable insights into candy sales, helping businesses optimize product distribution, understand revenue patterns, and improve decision-making.
-
-🤝 Contributing
-Feel free to fork this repository, suggest improvements, and submit a pull request!
-
-📩 Contact
-📧 Email: onyeutefreedom@gmail.com
-📱 WhatsApp: +2349037064724
-⭐ If you find this useful, don’t forget to give it a star! 🌟
-
-
+Dashboard 1 - candy project Image 1 .jpg
 
 
 
