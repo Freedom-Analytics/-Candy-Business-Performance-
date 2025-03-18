@@ -1,4 +1,5 @@
 🍬 Candy Business Performance Dashboard 📊
+
 This repository contains an Excel-based sales dashboard that provides insights into candy business performance. The dashboard helps in analyzing sales trends, product performance, and manufacturer insights.
 
 📈 Key Features
@@ -15,8 +16,7 @@ Microsoft Excel 📊
 Pivot Tables & Charts 📈
 Data Cleaning & Analysis 🧹
 📷 Dashboard Preview
-Dashboard 1 - candy project Image 1 .jpg
-
+Dashboard 1 - (https://github.com/Freedom-Analytics/-Candy-Business-Performance-/blob/main/candy%20project%20Image%201%20.jpg)
 
 
 
