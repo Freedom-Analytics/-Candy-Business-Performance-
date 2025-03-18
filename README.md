@@ -16,10 +16,10 @@ This repository contains an Excel-based sales dashboard that provides insights i
 - ** Pivot Tables & Charts 📈
 - ** Data Cleaning & Analysis 🧹
 ## 📷 Dashboard Preview
-Dashboard 1 - Candy Business Performance Overview  (https://github.com/Freedom-Analytics/-Candy-Business-Performance-/blob/main/candy%20project%20Image%201%20.jpg)
-
+Dashboard 1 - Candy Business Performance Overview  
+candy project Image 1 .jpg
 Dashboard 2 - Detailed Sales Insights 
-https://github.com/Freedom-Analytics/-Candy-Business-Performance-/blob/main/candy%20project%20Image%202%20.jpg
+candy project Image 2 .jpg
 
 ## 📂 Dataset
 
